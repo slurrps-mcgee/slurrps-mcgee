@@ -1,9 +1,12 @@
 ## Hello There ##
 
-- 👋 Hi, I’m @slurrps-mcgee
-- 👀 I’m interested in full stack web development as well as windows .net development.
-- 🌱 I’m currently learning the MERN stack as well as python.
-- 💞️ I’m looking to collaborate on any and all web based projects. I am knowlegable in C#, HTML, CSS, JS(Moderately), SQL in languages and currently ASP.Net, webAPI, Bootstrap 5 in frameworks.
+- 🧊 Hi, I’m @slurrps-mcgee 🧊
+- I’m interested in full stack web development, .Net development, scripting, and UI/UX. I am always interested in learning anything new.
+- I have knowledge in C#, C++, HTML, CSS, Javascript, Python for languages and Bootstrap, Blazor, ASP.NET, web api for frameworks with a small bit of knowledge in react.
+- I’m currently learning the MERN stack as well as python.
+- I’m looking to collaborate on any and all web based projects.
+
+### Contact Info ####
 - 📫 How to reach me slurrpsmcgee@gmail.com is the best way to reach me.
 
 ### Socials ###
