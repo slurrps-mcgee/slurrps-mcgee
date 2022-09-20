@@ -6,10 +6,10 @@
 - I’m currently learning the MERN stack as well as python.
 - I’m looking to collaborate on any and all web based projects.
 
-### Contact Info ####
-- 📫 How to reach me slurrpsmcgee@gmail.com is the best way to reach me.
+### 📫 Contact Info 📫 ####
+- Email slurrpsmcgee@gmail.com
 
-### Socials ###
+### ✨Socials✨ ###
 - <a href="https://codepen.io/slurrps-mcgee" target="_blank">Codepen.io</a>
 
 <!---
