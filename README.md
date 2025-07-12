@@ -9,6 +9,12 @@
 ### 📫 Contact Info 📫 ####
 - Email slurrpsmcgee@gmail.com
 
+### Organizations ####
+- <a href="https://github.com/slurrps-old" target="_blank">Old Projects</a>
+- <a href="https://github.com/slurrps-school" target="_blank">School Projects</a>
+- <a href="https://github.com/Slurrps-Templates" target="_blank">Template Projects</a>
+- <a href="https://github.com/Slurrps-Frontend-Mentor" target="_blank">FrontEnd Mentor Projects</a>
+
 ### ✨Socials✨ ###
 - <a href="https://codepen.io/slurrps-mcgee" target="_blank">Codepen.io</a>
 
