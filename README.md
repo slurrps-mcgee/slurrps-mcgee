@@ -11,7 +11,7 @@
 ### 📫 Contact Info 📫 ####
 - Email quantumcodedevs@gmail.com
 
-### Organizations ####
+### My Projects are organized into Organizations ####
 - <a href="https://github.com/slurrps-old" target="_blank">Old Projects</a>
 - <a href="https://github.com/slurrps-school" target="_blank">School Projects</a>
 - <a href="https://github.com/Slurrps-Templates" target="_blank">Template Projects</a>
