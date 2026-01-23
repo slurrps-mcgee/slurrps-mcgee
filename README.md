@@ -12,10 +12,11 @@
 - Email quantumcodedevs@gmail.com
 
 ### My Projects are organized into Organizations ####
-- <a href="https://github.com/slurrps-old" target="_blank">Old Projects</a>
-- <a href="https://github.com/slurrps-school" target="_blank">School Projects</a>
-- <a href="https://github.com/Slurrps-Templates" target="_blank">Template Projects</a>
-- <a href="https://github.com/Slurrps-Frontend-Mentor" target="_blank">FrontEnd Mentor Projects</a>
+- <a href="https://github.com/slurrps-old/repositories" target="_blank">Old Projects</a>
+- <a href="https://github.com/slurrps-school/repositories" target="_blank">School Projects</a>
+- <a href="https://github.com/Slurrps-Templates/repositories" target="_blank">Template Projects</a>
+- <a href="https://github.com/Slurrps-Frontend-Mentor/repositories" target="_blank">FrontEnd Mentor Projects</a>
+- <a href="https://github.com/orgs/QuantumCodeDevs/repositories" target="_blank">Professional Projects</a>
 
 ### ✨Socials✨ ###
 - <a href="https://codepen.io/slurrps-mcgee" target="_blank">Codepen.io</a>
