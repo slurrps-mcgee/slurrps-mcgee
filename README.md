@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slurrps-mcgee" alt="slurrps-mcgee" /></a> </p> -->
 
-- 🔭 I'm currently working on **Snippy**
+- 🔭 I'm currently working on **Snippy** a codepen.io clone for self hosting as well as **SteamStats** a steam linked application showing your personal statistics
 
 - 🌱 I'm currently learning **AWS**
 
