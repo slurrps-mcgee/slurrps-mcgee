@@ -2,9 +2,9 @@
 
 ### A passionate Fullstack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slurrps-mcgee&label=Profile views&color=0e75b6&style=flat" alt="slurrps-mcgee" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=slurrps-mcgee&label=Profile views&color=0e75b6&style=flat" alt="slurrps-mcgee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slurrps-mcgee" alt="slurrps-mcgee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slurrps-mcgee" alt="slurrps-mcgee" /></a> </p> -->
 
 - 🔭 I'm currently working on **Snippy**
 
